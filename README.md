@@ -73,10 +73,4 @@ Career-Roadmap-Generator/
 
 ---
 
-## 👥 Contributing
-Contributions are welcome! If you'd like to improve this project, feel free to:
-1. Fork the repository.
-2. Create a feature branch.
-3. Make necessary changes and commit.
-4. Submit a Pull Request.
 
